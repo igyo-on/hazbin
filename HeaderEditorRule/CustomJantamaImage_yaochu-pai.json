@@ -22,7 +22,7 @@
 			"group": "Custom/Jantama",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://raw.githubusercontent.com/igyo-on/hazbin/main/HHTest.png"
+			"to": "https://raw.githubusercontent.com/igyo-on/hazbin/main/HandHazbin.png"
 		},
 		{
 			"enable": true,
