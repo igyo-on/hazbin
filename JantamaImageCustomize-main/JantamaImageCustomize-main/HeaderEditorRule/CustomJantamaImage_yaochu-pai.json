@@ -1,0 +1,43 @@
+{
+	"request": [
+		{
+			"enable": true,
+			"name": "雀魂画像変更_么九牌_UI",
+			"ruleType": "redirect",
+			"matchType": "regexp",
+			"pattern": "https://game.mahjongsoul.com/v[0-9.]+w/res/atlas/jp/myres2/.*/ui.png",
+			"exclude": "",
+			"group": "Custom/Jantama",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "https://raw.githubusercontent.com/GanohrShobo/JantamaImageCustomize/main/ui_yaochu_pai_only.png"
+		},
+		{
+			"enable": true,
+			"name": "雀魂画像変更_么九牌_hand",
+			"ruleType": "redirect",
+			"matchType": "regexp",
+			"pattern": "https://game.mahjongsoul.com/v[0-9.]+w/scene/Assets/Resource/mjpaimian/.*/hand.png",
+			"exclude": "",
+			"group": "Custom/Jantama",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "https://raw.githubusercontent.com/GanohrShobo/JantamaImageCustomize/main/hand_yaochu_pai_only.png"
+		},
+		{
+			"enable": true,
+			"name": "雀魂画像変更_么九牌_mjp",
+			"ruleType": "redirect",
+			"matchType": "regexp",
+			"pattern": "https://game.mahjongsoul.com/v[0-9.]+\\.w/scene/Assets/Resource/mjpaimian/.*/mjp.png",
+			"exclude": "",
+			"group": "Custom/Jantama",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "https://raw.githubusercontent.com/GanohrShobo/JantamaImageCustomize/main/mjp_yaochu_pai_only.png"
+		}
+	],
+	"sendHeader": [],
+	"receiveHeader": [],
+	"receiveBody": []
+}
