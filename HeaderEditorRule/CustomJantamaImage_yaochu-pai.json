@@ -10,7 +10,7 @@
 			"group": "Custom/Jantama",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://raw.githubusercontent.com/igyo-on/hazbinzyan/main/UiHazbin.png"
+			"to": "https://raw.githubusercontent.com/igyo-on/hazbin/main/UiHazbin.png"
 		},
 		{
 			"enable": true,
@@ -22,7 +22,7 @@
 			"group": "Custom/Jantama",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://raw.githubusercontent.com/igyo-on/hazbinzyan/main/HandHazbin.png"
+			"to": "https://raw.githubusercontent.com/igyo-on/hazbin/main/HHTest.png"
 		},
 		{
 			"enable": true,
@@ -34,7 +34,7 @@
 			"group": "Custom/Jantama",
 			"isFunction": false,
 			"action": "redirect",
-			"to": "https://raw.githubusercontent.com/igyo-on/hazbinzyan/main/MjpHazbin.png"
+			"to": "https://raw.githubusercontent.com/igyo-on/hazbin/main/MjpHazbin.png"
 		}
 	],
 	"sendHeader": [],
